@@ -6,5 +6,7 @@ public class Package1Class {
 		
 	System.out.println("another print sttament");
 	}
-
+public static void add(int a,int b){
+	
+}
 }
